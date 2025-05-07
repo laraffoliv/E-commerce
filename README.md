@@ -17,3 +17,23 @@ Com esses elementos, o sistema de ecommerce será capaz de atender às demandas 
 Para implementar esse projeto, a equipe formada é composta por:
 •	Guilherme Araujo Lima: Full Stack e banco de dados
 •	Lara: Full Stack e banco de dados
+
+
+BACKLOG DO PRODUTO
+Objetivo Geral: o sistema visa facilitar o comércio online de produtos, dessa forma, permite que o administrador adicione novos produtos a serem comercializados, contendo a descrição e o preço. Em seguida, após a adição, o novo produto constará no site para a venda online.
+
+Histórias de Usuário:
+Como usuário, quero poder adicionar meu produto.
+Como usuário, quero visualizar a lista de produtos disponíveis.
+Como usuário, quero editar as informações de um produto que adicionei.
+Como usuário, quero excluir um produto que não quero mais ou que já foi vendido.
+Como usuário, quero buscar produtos por nome.
+Como usuário, quero ver detalhes de produto específico.
+Como usuário, quero marcar um produto como vendido.
+Como usuário, quero receber notificações sobre novos produtos adicionados.
+Como usuário, quero poder criar um perfil para gerenciar meus produtos.
+Como usuário, quero poder visualizar o histórico de transações (vendas).
+Como usuário, quero avaliar e deixar comentários sobre produtos que adquiri.
+Como usuário, quero um sistema de feedback para melhorar a experiência do usuário.
+Como usuário, quero relatar problemas com um produto (por exemplo, defeito).
+
