@@ -50,30 +50,30 @@ Gerenciamento de Componentes (CRUD):
 
 Como usuário, quero poder adicionar, visualizar, editar e excluir meus produtos.
 Critérios de Aceitação:
-O usuário deve ser capaz de adicionar um componente por meio do painel de administrador.
-O sistema deve exibir uma lista de todos os produtos cadastrados.
-O usuário deve poder editar as informações de um produto.
-O usuário deve poder excluir um produto que não deseja mais.
+1. O usuário deve ser capaz de adicionar um componente por meio do painel de administrador.
+2. O sistema deve exibir uma lista de todos os produtos cadastrados.
+3. O usuário deve poder editar as informações de um produto.
+4. O usuário deve poder excluir um produto que não deseja mais.
 
 Visualizar Detalhes de um Componente:
 
-Como usuário, quero ver detalhes de um produto específico.
+1. Como usuário, quero ver detalhes de um produto específico.
 Critérios de Aceitação:
-O sistema deve exibir todas as informações do componente selecionado, como nome, descrição e quantidade.
+1. O sistema deve exibir todas as informações do componente selecionado, como nome, descrição e quantidade.
 
 Cadastro e Gerenciamento de Perfil:
 
-Como usuário, quero poder criar um perfil para gerenciar meus produtos.
+1. Como usuário, quero poder criar um perfil para gerenciar meus produtos.
 Critérios de Aceitação:
-O usuário deve criar o usuário diretamente pelo terminal.
-O sistema deve validar os campos de entrada (e-mail, senha, etc.).
-O usuário deve ser capaz de fazer login e logout.
+1. O usuário deve criar o usuário diretamente pelo terminal.
+2. O sistema deve validar os campos de entrada (e-mail, senha, etc.).
+3. O usuário deve ser capaz de fazer login e logout.
 Segurança dos Dados:
 
-Como usuário, quero que meus dados estejam seguros ao cadastrar meu perfil.
+1. Como usuário, quero que meus dados estejam seguros ao cadastrar meu perfil.
 Critérios de Aceitação:
-O sistema deve criptografar senhas antes de armazená-las.
-O sistema deve validar e-mail e senha ao fazer login.
+1. O sistema deve criptografar senhas antes de armazená-las.
+2. O sistema deve validar e-mail e senha ao fazer login.
 
 
 Distribuição das Tarefas da Sprint 1:
