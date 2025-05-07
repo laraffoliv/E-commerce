@@ -20,6 +20,8 @@ Para implementar esse projeto, a equipe formada é composta por:
 
 
 BACKLOG DO PRODUTO
+
+
 Objetivo Geral: o sistema visa facilitar o comércio online de produtos, dessa forma, permite que o administrador adicione novos produtos a serem comercializados, contendo a descrição e o preço. Em seguida, após a adição, o novo produto constará no site para a venda online.
 
 Histórias de Usuário:
@@ -37,3 +39,55 @@ Como usuário, quero avaliar e deixar comentários sobre produtos que adquiri.
 Como usuário, quero um sistema de feedback para melhorar a experiência do usuário.
 Como usuário, quero relatar problemas com um produto (por exemplo, defeito).
 
+BACKLOG DA SPRINT 1
+
+
+Permitir que os usuários consigam visualizar produtos (CRUD), visualizar detalhes de um produto, gerenciar seu perfil (criação de conta e login do administrador), e garantir a segurança dos dados.
+
+
+Histórias de Usuário da Sprint 1:
+Gerenciamento de Componentes (CRUD):
+
+Como usuário, quero poder adicionar, visualizar, editar e excluir meus produtos.
+Critérios de Aceitação:
+O usuário deve ser capaz de adicionar um componente por meio do painel de administrador.
+O sistema deve exibir uma lista de todos os produtos cadastrados.
+O usuário deve poder editar as informações de um produto.
+O usuário deve poder excluir um produto que não deseja mais.
+
+Visualizar Detalhes de um Componente:
+
+Como usuário, quero ver detalhes de um produto específico.
+Critérios de Aceitação:
+O sistema deve exibir todas as informações do componente selecionado, como nome, descrição e quantidade.
+
+Cadastro e Gerenciamento de Perfil:
+
+Como usuário, quero poder criar um perfil para gerenciar meus produtos.
+Critérios de Aceitação:
+O usuário deve criar o usuário diretamente pelo terminal.
+O sistema deve validar os campos de entrada (e-mail, senha, etc.).
+O usuário deve ser capaz de fazer login e logout.
+Segurança dos Dados:
+
+Como usuário, quero que meus dados estejam seguros ao cadastrar meu perfil.
+Critérios de Aceitação:
+O sistema deve criptografar senhas antes de armazená-las.
+O sistema deve validar e-mail e senha ao fazer login.
+
+
+Distribuição das Tarefas da Sprint 1:
+Lara (Fullstack):
+
+Criar front-end do ecommerce (Bootstrap).
+Desenvolver a exibição da lista de produtos.
+Implementar validação de dados no front-end.
+Desenvolvimento do backend (Django e SQLite).
+Integração do backend com o frontend.
+
+Guilherme (Fullstack):
+Desenvolvimento do backend (Django e SQLite).
+Integração do backend com o frontend.
+
+Meta da Sprint:
+Ao final da Sprint 1, o usuário administrador deve ser capaz de gerenciar produtos (CRUD), visualizar detalhes de um produto específico, criar um perfil e fazer login/logout. Todos os dados devem ser validados e armazenados com segurança no banco de dados.
