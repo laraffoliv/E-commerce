@@ -25,19 +25,19 @@ BACKLOG DO PRODUTO
 Objetivo Geral: o sistema visa facilitar o comércio online de produtos, dessa forma, permite que o administrador adicione novos produtos a serem comercializados, contendo a descrição e o preço. Em seguida, após a adição, o novo produto constará no site para a venda online.
 
 Histórias de Usuário:
-Como usuário, quero poder adicionar meu produto.
-Como usuário, quero visualizar a lista de produtos disponíveis.
-Como usuário, quero editar as informações de um produto que adicionei.
-Como usuário, quero excluir um produto que não quero mais ou que já foi vendido.
-Como usuário, quero buscar produtos por nome.
-Como usuário, quero ver detalhes de produto específico.
-Como usuário, quero marcar um produto como vendido.
-Como usuário, quero receber notificações sobre novos produtos adicionados.
-Como usuário, quero poder criar um perfil para gerenciar meus produtos.
-Como usuário, quero poder visualizar o histórico de transações (vendas).
-Como usuário, quero avaliar e deixar comentários sobre produtos que adquiri.
-Como usuário, quero um sistema de feedback para melhorar a experiência do usuário.
-Como usuário, quero relatar problemas com um produto (por exemplo, defeito).
+1. Como usuário, quero poder adicionar meu produto.
+2. Como usuário, quero visualizar a lista de produtos disponíveis.
+2. Como usuário, quero editar as informações de um produto que adicionei.
+3. Como usuário, quero excluir um produto que não quero mais ou que já foi vendido.
+4. Como usuário, quero buscar produtos por nome.
+5. Como usuário, quero ver detalhes de produto específico.
+6. Como usuário, quero marcar um produto como vendido.
+7. Como usuário, quero receber notificações sobre novos produtos adicionados.
+8. Como usuário, quero poder criar um perfil para gerenciar meus produtos.
+9. Como usuário, quero poder visualizar o histórico de transações (vendas).
+10. Como usuário, quero avaliar e deixar comentários sobre produtos que adquiri.
+11. Como usuário, quero um sistema de feedback para melhorar a experiência do usuário.
+12. Como usuário, quero relatar problemas com um produto (por exemplo, defeito).
 
 BACKLOG DA SPRINT 1
 
