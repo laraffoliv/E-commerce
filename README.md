@@ -49,6 +49,7 @@ Histórias de Usuário da Sprint 1:
 Gerenciamento de Componentes (CRUD):
 
 Como usuário, quero poder adicionar, visualizar, editar e excluir meus produtos.
+
 Critérios de Aceitação:
 1. O usuário deve ser capaz de adicionar um componente por meio do painel de administrador.
 2. O sistema deve exibir uma lista de todos os produtos cadastrados.
@@ -58,12 +59,14 @@ Critérios de Aceitação:
 Visualizar Detalhes de um Componente:
 
 1. Como usuário, quero ver detalhes de um produto específico.
+   
 Critérios de Aceitação:
 1. O sistema deve exibir todas as informações do componente selecionado, como nome, descrição e quantidade.
 
 Cadastro e Gerenciamento de Perfil:
 
 1. Como usuário, quero poder criar um perfil para gerenciar meus produtos.
+
 Critérios de Aceitação:
 1. O usuário deve criar o usuário diretamente pelo terminal.
 2. O sistema deve validar os campos de entrada (e-mail, senha, etc.).
@@ -71,6 +74,7 @@ Critérios de Aceitação:
 Segurança dos Dados:
 
 1. Como usuário, quero que meus dados estejam seguros ao cadastrar meu perfil.
+
 Critérios de Aceitação:
 1. O sistema deve criptografar senhas antes de armazená-las.
 2. O sistema deve validar e-mail e senha ao fazer login.
