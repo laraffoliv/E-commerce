@@ -95,3 +95,7 @@ Integração do backend com o frontend.
 
 Meta da Sprint:
 Ao final da Sprint 1, o usuário administrador deve ser capaz de gerenciar produtos (CRUD), visualizar detalhes de um produto específico, criar um perfil e fazer login/logout. Todos os dados devem ser validados e armazenados com segurança no banco de dados.
+
+DIAGRAMA UML
+
+![uml](https://github.com/user-attachments/assets/e686c111-ded1-4037-b58e-d32f790522dc)
